@@ -29,7 +29,7 @@
 
 	<Placemark>
 		<name>Manchester Piccadilly</name>	
-		<styleUrl>#pushpin6 </styleUrl>
+		<styleUrl>#pushpin6</styleUrl>
 		<Point>
 			<coordinates>-2.230932,53.477403,0</coordinates>
 		</Point>
