@@ -12,20 +12,6 @@
     </Style>
 
 
-
-	<Placemark>
-		<name>Manchester Piccadilly</name>
-		<Point>
-			<coordinates>-2.230932,53.477403,0</coordinates>
-		</Point>
-	</Placemark>
-	<Placemark>
-		<name>Barrow-in-Furness</name>
-		<Point>
-			<coordinates>-3.218894,54.108967,0</coordinates>
-		</Point>
-	</Placemark>
-
     <Placemark>
       <name>Manchester Piccadilly to Hull Line</name>
       <styleUrl>#blueLine</styleUrl>
