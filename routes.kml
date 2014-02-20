@@ -14,12 +14,12 @@
 <Style id=“icon”>
  <IconStyle> 
 	<Icon>
-		<href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
+		<href>road_shield3.png</href>
 	</Icon>
   </IconStyle>
 </Style>
 
-	<Placemark id="23.1.1">
+	<Placemark>
 		<name>Manchester Piccadilly</name>
 		<styleUrl>#icon</styleUrl>
 		<Point>
