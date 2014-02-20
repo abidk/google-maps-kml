@@ -18,6 +18,7 @@
 
 	<Placemark>
 		<name>Manchester Piccadilly</name>
+           	<description>Label hidding</description> 	
 		<styleUrl>#sn_hide</styleUrl>
 		<Point>
 			<coordinates>-2.230932,53.477403,0</coordinates>
