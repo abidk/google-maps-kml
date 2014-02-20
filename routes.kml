@@ -6,7 +6,7 @@
 
     <Style id="blueLine">
       <LineStyle>
-        <color>ffff0000</color>
+        <color>0066CC</color>
         <width>4</width>
       </LineStyle>
     </Style>
