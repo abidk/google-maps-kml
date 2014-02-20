@@ -10,11 +10,18 @@
         <width>3</width>
       </LineStyle>
     </Style>
+
 	<Style id="sn_hide">
+		<IconStyle>
+			<scale>1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
             <LabelStyle>
                 <scale>1</scale>
             </LabelStyle>
-        </Style>
+	</Style>
 
 	<Placemark>
 		<name>Manchester Piccadilly</name>
