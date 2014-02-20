@@ -11,24 +11,16 @@
       </LineStyle>
     </Style>
 
-<Style id=“icon”>
- <IconStyle> 
-	<Icon>
-		<href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
-	</Icon>
-  </IconStyle>
-</Style>
+
 
 	<Placemark>
 		<name>Manchester Piccadilly</name>
-		<styleUrl>#icon</styleUrl>
 		<Point>
 			<coordinates>-2.230932,53.477403,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark>
 		<name>Barrow-in-Furness</name>
-		<styleUrl>#icon</styleUrl>
 		<Point>
 			<coordinates>-3.218894,54.108967,0</coordinates>
 		</Point>
