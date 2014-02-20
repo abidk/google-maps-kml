@@ -14,9 +14,7 @@
 	<Style id="sn_hide">
 		<IconStyle>
 			<scale>1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-			</Icon>
+			<Icon />
 		</IconStyle>
             <LabelStyle>
                 <scale>1</scale>
@@ -24,8 +22,7 @@
 	</Style>
 
 	<Placemark>
-		<name>Manchester Piccadilly</name>
-           	<description>Label hidding</description> 	
+		<name>Manchester Piccadilly</name>	
 		<styleUrl>#sn_hide</styleUrl>
 		<Point>
 			<coordinates>-2.230932,53.477403,0</coordinates>
