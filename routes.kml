@@ -14,7 +14,7 @@
 <Style id=“icon”>
  <IconStyle> 
 	<Icon>
-		<href>road_shield3.png</href>
+		<href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
 	</Icon>
   </IconStyle>
 </Style>
