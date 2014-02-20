@@ -11,17 +11,15 @@
       </LineStyle>
     </Style>
 
-	<Placemark id="23.1.1">
+	<Placemark>
 		<name>Manchester Piccadilly</name>
-		<address>Manchester M60 7RA, United Kingdom</address>
-		<styleUrl>http://maps.google.com/local?q=Manchester%20Piccadilly%20to%20Barrow-in-Furness&amp;ie=utf-8&amp;hl=en&amp;gl=gb&amp;sll=54.138,-2.95554&amp;sspn=0.386873,0.906149&amp;client=earth-client&amp;cv=7.1.2.2041&amp;maxads=2&amp;output=xml&amp;prune=earth&amp;oe=utf8&amp;useragent=GoogleEarth/7.1.2.2041(Macintosh;Mac%20OS%20X%20(10.9.1);en;kml:2.2;client:Free;type:default)&amp;dirflg=r#dir_startpoint</styleUrl>
+		<styleUrl>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</styleUrl>
 		<Point>
 			<coordinates>-2.230932,53.477403,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="23.1.2">
-		<address>Barrow-in-Furness, Cumbria, UK</address>
-		<styleUrl>http://maps.google.com/local?q=Manchester%20Piccadilly%20to%20Barrow-in-Furness&amp;ie=utf-8&amp;hl=en&amp;gl=gb&amp;sll=54.138,-2.95554&amp;sspn=0.386873,0.906149&amp;client=earth-client&amp;cv=7.1.2.2041&amp;maxads=2&amp;output=xml&amp;prune=earth&amp;oe=utf8&amp;useragent=GoogleEarth/7.1.2.2041(Macintosh;Mac%20OS%20X%20(10.9.1);en;kml:2.2;client:Free;type:default)&amp;dirflg=r#dir_endpoint</styleUrl>
+	<Placemark>
+		<styleUrl>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</styleUrl>
 		<Point>
 			<coordinates>-3.218894,54.108967,0</coordinates>
 		</Point>
